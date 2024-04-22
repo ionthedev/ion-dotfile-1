@@ -5,11 +5,20 @@ I always found something zen about the aesthetic of the mid-late 2000's adult sw
 
 ###### Notice: 
 I am really new to the unix ricing community, so if you see ways I can improve this repo to make it easier to share, please let me know in the issues tab.
+
+
+# Requirements
 ###### Shell: GNOME 43.9
 I am using Zorin 17 as my OS, I'm not too sure if that matters though.
 
+###### Extension Manager
+
+###### Gnome Tweaks
+
 
 # Extensions
+
+## User Themes
 ## Blur My Shell
 #### General
 Sigma - 98
@@ -54,6 +63,14 @@ If you'd like to learn how to add your own Logo, hollah at ya boi.
 ## Open Bar
 Import the settings provided in ~/OpenBar
 
+Bar Props don't seem to export, so here those are
+Type of Bar - Islands
+Position of Bar - Top
+Bar Height - 30
+Bar Margins - 10.6
+Apply in Overview - on
+Apply to Notifications Pop-ups - on
+
 ## Panel corners
 Panel corners - off
 Screen corners - on
@@ -69,4 +86,25 @@ Default Settings
 Default settings
 
 # Tweaks
-Appearance - Catpuccin
+## Appearance
+Applications - [Catpuccin Mocha Standard Peach Dark](https://www.gnome-look.org/p/1996672)
+Cursor - [Catppuccin Macchiato Peach Cursors](https://github.com/catppuccin/cursors)
+Icons - [ZorinOrange-Dark](https://github.com/ZorinOS/zorin-icon-themes)
+Shell - [Catpuccin Mocha Standard Peach Dark](https://www.gnome-look.org/p/1996672)
+Sound - Zorin - came with os can't find download
+
+## Fonts
+
+You'll have to download Helvetica yourself as I don't feel comfortable distributing it due to confusing licenses around it.
+
+Interface Text - [Helvetica Neue Regular - 10x](https://font.download/font/helvetica-neue-5)
+Document Text - [Helvetica Neue Regular - 10x](https://font.download/font/helvetica-neue-5)
+Monospace Text - Roboto Mono Medium - 10x (should be included in most os's)
+Legacy Window Titles - Inter Bold
+
+## Windows Titlebars
+Maximize - on
+Minimize - on
+Placement - Left
+
+# Obsidian
